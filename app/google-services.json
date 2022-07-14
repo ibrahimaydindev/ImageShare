@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937051307161",
+    "project_id": "imageshare-2bb9a",
+    "storage_bucket": "imageshare-2bb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937051307161:android:933f023c27e5cdff218c08",
+        "android_client_info": {
+          "package_name": "com.example.imageshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937051307161-kuo47tkuqdq90jh4862k3p6surggi1k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvAZsmYOY2wmE50YeNWetXH6Oxh7x9U8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937051307161-kuo47tkuqdq90jh4862k3p6surggi1k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
